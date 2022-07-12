@@ -14,4 +14,4 @@ Here's the link- https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-o
 
 93.5 percent (w. Stacking Ensembler)
 
-## Don't forget to star this project! It'd help me out a ton
+**Don't forget to star this project! It'd help me out a ton**
