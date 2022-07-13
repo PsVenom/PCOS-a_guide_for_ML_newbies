@@ -1,6 +1,6 @@
 # PCOS-a_guide_for_ML_newbies
 
-This is meant as an introductory notebook for people interested in ML. 
+This is meant to be an introductory notebook for people interested in ML. 
 
 ## Problem Statement
 
